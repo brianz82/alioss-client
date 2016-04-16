@@ -4,6 +4,7 @@
     "keywords": ["SDK", "PHP"],
     "license": "proprietary",
     "type": "project",
+    "version": "1.0.0",
     "require": {
         "php": ">=5.5.9",
         "guzzlehttp/guzzle": "~6.0"
