@@ -1,13 +1,14 @@
 {
     "name": "homer/alioss-client",
-    "description": "Export Aliyun OSS",
-    "keywords": ["SDK", "PHP"],
-    "license": "proprietary",
-    "type": "project",
     "version": "1.0.0",
+    "description": "Export Aliyun OSS",
+    "keywords": ["SDK", "Alioss"],
+    "license": "proprietary",
+    "type": "library",
+    
     "require": {
         "php": ">=5.5.9",
-        "guzzlehttp/guzzle": "~6.0"
+        "guzzlehttp/guzzle": "^6.1"
     },
     "autoload": {
         "psr-4": {
