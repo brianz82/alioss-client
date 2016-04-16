@@ -1,0 +1,11 @@
+vendor
+
+# eclipse project files
+.buildpath
+.project
+.settings
+
+.idea
+
+# MAC OS 
+.DS_Store
